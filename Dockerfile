@@ -1,4 +1,4 @@
-FROM docker:20.10
+FROM public.ecr.aws/blinkit/docker:20.10
 
 RUN apk add bash
 
